@@ -1,0 +1,23 @@
+{
+  "name": "gm-webkit",
+  "version": "0.0.1",
+  "description": "A toolkit by Gamemodstudios for web-based applications.",
+  "homepage": "https://github.com/Gamemodstudios/gm-webkit#readme",
+  "bugs": {
+    "url": "https://github.com/Gamemodstudios/gm-webkit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamemodstudios/gm-webkit.git"
+  },
+  "author": "Gamemodstudios",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "gamemodstudios",
+    "web",
+    "toolkit",
+    "framework"
+  ]
+}
