@@ -14,16 +14,20 @@ A toolkit by Gamemodstudios for web-based applications. This package provides re
 npm install gm-webkit
 ```
 
-Or use directly in the browser by copying the JS file or referencing from your own CDN.
+Or use directly in the browser by adding a script tag in the header:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/gm-webkit@0.0.1/spiners/progress-indicators.js"></script>
+```
 
 ## Usage
 
 ### In HTML (Browser)
 
-Copy or build `spiners/progress-indicators.js` and include it in your HTML:
+Add the following script tag to your HTML `<head>` to load the components from the CDN:
 
 ```html
-<script src="./spiners/progress-indicators.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gm-webkit@0.0.1/spiners/progress-indicators.js"></script>
 ```
 
 Then use the custom elements:
