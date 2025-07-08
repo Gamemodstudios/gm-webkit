@@ -1,7 +1,13 @@
 {
-  "name": "gm-webkit",
-  "version": "0.0.3",
+  "name": "@gamemodstudios/gm-webkit",
+  "version": "0.1.0",
   "description": "A toolkit by Gamemodstudios for web-based applications.",
+  "keywords": [
+    "gamemodstudios",
+    "web",
+    "toolkit",
+    "framework"
+  ],
   "homepage": "https://github.com/Gamemodstudios/gm-webkit#readme",
   "bugs": {
     "url": "https://github.com/Gamemodstudios/gm-webkit/issues"
@@ -10,14 +16,11 @@
     "type": "git",
     "url": "git+https://github.com/Gamemodstudios/gm-webkit.git"
   },
-  "author": "Gamemodstudios",
   "license": "MIT",
-  "main": "index.js",
+  "author": "Gamemodstudios",
   "type": "commonjs",
-  "keywords": [
-    "gamemodstudios",
-    "web",
-    "toolkit",
-    "framework"
-  ]
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

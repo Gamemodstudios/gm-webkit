@@ -10,14 +10,8 @@ A toolkit by Gamemodstudios for web-based applications. This package provides re
 
 ## Installation
 
-```sh
-npm install gm-webkit
-```
-
-Or use directly in the browser by adding a script tag in the header:
-
 ```html
-<script src="https://cdn.jsdelivr.net/npm/gm-webkit@0.0.1/spiners/progress-indicators.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gm-webkit@latest/spiners/progress-indicators.js"></script>
 ```
 
 ## Usage
@@ -27,7 +21,7 @@ Or use directly in the browser by adding a script tag in the header:
 Add the following script tag to your HTML `<head>` to load the components from the CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/gm-webkit@0.0.1/spiners/progress-indicators.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gm-webkit@latest/spiners/progress-indicators.js"></script>
 ```
 
 Then use the custom elements:
