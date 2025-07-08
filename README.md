@@ -11,7 +11,7 @@ A toolkit by Gamemodstudios for web-based applications. This package provides re
 ## Installation
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/gm-webkit@latest/spiners/progress-indicators.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@gamemodstudios/gm-webkit@latest/spiners/progress-indicators.js"></script>
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ A toolkit by Gamemodstudios for web-based applications. This package provides re
 Add the following script tag to your HTML `<head>` to load the components from the CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/gm-webkit@latest/spiners/progress-indicators.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@gamemodstudios/gm-webkit@latest/spiners/progress-indicators.js"></script>
 ```
 
 Then use the custom elements:
